@@ -2,7 +2,7 @@
 
 <<**Language**>>
 
-<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
 
 <<**Strength**>>
 
