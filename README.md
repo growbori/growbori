@@ -2,17 +2,12 @@
 
 <<**Language**>>
 
-<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-red?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C++-red?style=flat&logo=c%2B%2B&logoColor=white"/>
 
 
 <<**Strength**>>
 
-<img src="https://img.shields.io/badge/English-%23009EDB?style=flat&logo=Databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chinese-green?style={스타일}&logo=Databricks&logoColor=white"/> 
-<img src="https://img.shields.io/badge/일반기계기사-orange?style={스타일}&logo=eslint&logoColor={로고 색깔}"/>
-<img src="https://img.shields.io/badge/CSTS-yellow?style=flat&logo=Spark AR&logoColor=skyblue"/>
-<img src="https://img.shields.io/badge/ISTQB-black?style=flat&logo=Miro&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/English-%23009EDB?style=flat&logo=Databricks&logoColor=white"/><img src="https://img.shields.io/badge/Chinese-white?style=flat&logo=Databricks&logoColor=white&color=ADFF2F"/><img src="https://img.shields.io/badge/일반기계기사-orange?style={스타일}&logo=eslint&logoColor={로고 색깔}"/><img src="https://img.shields.io/badge/CSTS-yellow?style=flat&logo=Spark AR&logoColor=skyblue"/><img src="https://img.shields.io/badge/ISTQB-black?style=flat&logo=Miro&logoColor=skyblue"/>
 
 
 <<**Tool**>>
